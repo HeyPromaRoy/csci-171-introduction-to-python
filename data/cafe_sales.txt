@@ -1,0 +1,5 @@
+tea,3.50
+coffee,4.25
+tea,3.50
+sandwich,8.75
+coffee,4.25
