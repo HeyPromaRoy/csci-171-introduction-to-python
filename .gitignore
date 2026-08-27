@@ -1,6 +1,7 @@
 # Local
 /scripts/
 /NOTEBOOK_AUDIT.md
+/readings
 
 # Notebooks - to be released after the date specified in the filename
 /notebooks/*_2026-09-01_*.ipynb
@@ -30,3 +31,4 @@
 /notebooks/*_2026-12-03_*.ipynb
 /notebooks/*_2026-12-08_*.ipynb
 /notebooks/*_2026-12-10_*.ipynb
+module-plan.md
