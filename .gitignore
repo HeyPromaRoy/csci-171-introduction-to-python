@@ -5,7 +5,7 @@
 
 # Notebooks - to be released after the date specified in the filename
 /notebooks/*_2026-09-01_*.ipynb
-/notebooks/*_2026-09-03_*.ipynb
+# /notebooks/*_2026-09-03_*.ipynb
 /notebooks/*_2026-09-08_*.ipynb
 /notebooks/*_2026-09-10_*.ipynb
 /notebooks/*_2026-09-15_*.ipynb
