@@ -29,10 +29,14 @@ Breaking any of these stops the program before it runs. Meeting 3 deliberately t
 **The 35 reserved keywords** (never usable as a variable, function, or parameter name):
 
 ```
-False   None    True    and     as      assert  async   await
-break   class   continue def    del     elif    else    except
-finally for     from    global  if      import  in      is
-lambda  nonlocal not     or      pass    raise   return  try
+False   None    True    and    
+ as      assert  async   await
+break   class   continue def   
+ del     elif    else    except
+finally for     from    
+global  if      import  in    
+  is lambda  nonlocal not   
+or      pass    raise   return  try
 while   with    yield
 ```
 
