@@ -9,8 +9,8 @@
 # notebooks_2026-09-08_*.ipynb
 #/notebooks/*_2026-09-10_*.ipynb
 #/notebooks/*_2026-09-15_*.ipynb
-/notebooks/*_2026-09-17_*.ipynb
-/notebooks/*_2026-09-22_*.ipynb
+#/notebooks/*_2026-09-17_*.ipynb
+#/notebooks/*_2026-09-22_*.ipynb
 /notebooks/*_2026-09-24_*.ipynb
 /notebooks/*_2026-09-29_*.ipynb
 /notebooks/*_2026-10-01_*.ipynb
